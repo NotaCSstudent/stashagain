@@ -1,0 +1,2525 @@
+/* screen - macbook-6 */
+
+.macbook-6 {
+  background-color: transparent;
+  height: 2231px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1152px;
+}
+.macbook-6 .component-1-xwwNs9 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 120px;
+  left: 147px;
+  opacity: 1;
+  position: absolute;
+  top: 282px;
+  width: 114px;
+}
+.macbook-6 .desktop-and-mob-ming-april-2021-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: 49px;
+  left: 531px;
+  letter-spacing: 1.10px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 336px;
+  width: 323px;
+}
+.macbook-6 .disclaimers-C61RwL {
+  --z-index: 27;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2045px;
+  width: 109px;
+}
+.macbook-6 .discover-C61RwL {
+  --z-index: 42;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 914px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 124px;
+}
+.macbook-6 .discover-i133259133214-XFbfTH {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  width: 116px;
+}
+.macbook-6 .email-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 448px;
+  letter-spacing: 0.70px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 489px;
+  width: 64px;
+}
+.macbook-6 .email-VMr6Om {
+  --z-index: 31;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 772px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2075px;
+  white-space: nowrap;
+  width: 198px;
+}
+.macbook-6 .frame-100-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 70px;
+  left: 411px;
+  opacity: 1;
+  position: absolute;
+  top: 235px;
+  width: 334px;
+}
+.macbook-6 .frame-19544655-BtxwAb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/frame-19544655@2x.svg);
+  background-size: 100% 100%;
+  height: 455px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 225px;
+}
+.macbook-6 .frame-19544655-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  border-radius: 30px;
+  height: 455px;
+  left: 295px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 184px;
+  width: 225px;
+}
+.macbook-6 .frame-19544656-QVhtlc {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/frame-19544656@2x.svg);
+  background-size: 100% 100%;
+  height: 456px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.macbook-6 .frame-19544656-xwwNs9 {
+  --z-index: 5;
+  background-color: transparent;
+  border-radius: 30px;
+  height: 456px;
+  left: 325px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 127px;
+  width: 226px;
+}
+.macbook-6 .frame-19544664-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  height: 709px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1109px;
+  width: 1152px;
+}
+.macbook-6 .group-118-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/group-118@2x.svg);
+  background-size: 100% 100%;
+  height: 37px;
+  left: 197px;
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  width: 62px;
+}
+.macbook-6 .inform-me-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 699px;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 594px;
+  width: 138px;
+}
+.macbook-6 .investing-in-th-ssful-investors-C61RwL {
+  --z-index: 38;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.80px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 861px;
+  width: 1049px;
+}
+.macbook-6 .join-C61RwL {
+  --z-index: 32;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1019px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2074px;
+  white-space: nowrap;
+  width: 45px;
+}
+.macbook-6 .join-our-monthl-ding-the-launch-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1999px;
+  width: 765px;
+}
+.macbook-6 .learn-C61RwL {
+  --z-index: 40;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 793px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 114px;
+}
+.macbook-6 .learn-how-to-re-rough-the-fluff-xwwNs9 {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 638px;
+  letter-spacing: 1.00px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 310px;
+  width: 402px;
+}
+.macbook-6 .learn-i133259133212-XFbfTH {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 40px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 73px;
+}
+.macbook-6 .mac-book-6-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/macbook---6@1x.svg);
+  background-size: 100% 100%;
+  height: 2231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1152px;
+}
+.macbook-6 .mission-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 514px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 801px;
+  width: 126px;
+}
+.macbook-6 .mission-VMr6Om {
+  --z-index: 39;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 668px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 134px;
+}
+.macbook-6 .or-hold-on-to-t-term-investing-C61RwL {
+  --z-index: 37;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.80px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1844px;
+  width: 1083px;
+}
+.macbook-6 .our-mission-is-your-detrimate-C61RwL {
+  --z-index: 44;
+  background-color: transparent;
+  color: rgba(187,233,222,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 112px;
+  left: 540px;
+  letter-spacing: 0.80px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 443px;
+  width: 287px;
+}
+.macbook-6 .pinpoint-the-be-funds-and-et-fs-xwwNs9 {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 638px;
+  letter-spacing: 1.60px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 204px;
+  width: 443px;
+}
+.macbook-6 .privacy-C61RwL {
+  --z-index: 28;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2089px;
+  width: 109px;
+}
+.macbook-6 .rectangle-18-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-18@1x.svg);
+  background-size: 100% 100%;
+  height: 253px;
+  left: 261px;
+  opacity: 1;
+  position: absolute;
+  top: 411px;
+  width: 599px;
+}
+.macbook-6 .rectangle-20-C61RwL {
+  --z-index: 29;
+  background-color: transparent;
+  background-image: url(../img/rectangle-20@2x.svg);
+  background-size: 100% 100%;
+  height: 57px;
+  left: 747px;
+  opacity: 1;
+  position: absolute;
+  top: 2061px;
+  width: 362px;
+}
+.macbook-6 .rectangle-21-C61RwL {
+  --z-index: 30;
+  background-color: transparent;
+  background-image: url(../img/rectangle-21@2x.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 989px;
+  opacity: 1;
+  position: absolute;
+  top: 2069px;
+  width: 104px;
+}
+.macbook-6 .rectangle-22-C61RwL {
+  --z-index: 15;
+  background-color: rgba(6,18,16,1.0);
+  height: 364px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 748px;
+  width: 1152px;
+}
+.macbook-6 .rectangle-23-C61RwL {
+  --z-index: 23;
+  background-color: rgba(6,18,16,1.0);
+  height: 201px;
+  left: -3px;
+  opacity: 1;
+  position: absolute;
+  top: 1752px;
+  width: 1152px;
+}
+.macbook-6 .slogan-line-right-C61RwL {
+  --z-index: 33;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: 1752px;
+  width: 1153px;
+}
+.macbook-6 .slogan-line-right-QxM5SU {
+  --z-index: 36;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-3@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -2px;
+  opacity: 1;
+  position: absolute;
+  top: 1113px;
+  width: 1169px;
+}
+.macbook-6 .slogan-line-right-VMr6Om {
+  --z-index: 34;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-1@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -3px;
+  opacity: 1;
+  position: absolute;
+  top: 1952px;
+  width: 1155px;
+}
+.macbook-6 .slogan-line-right-mzXdH9 {
+  --z-index: 35;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-2@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 747px;
+  width: 1153px;
+}
+.macbook-6 .span0-o3cMhL {
+  font-style: normal;
+}
+.macbook-6 .span1-o3cMhL {
+  font-style: normal;
+  font-weight: 800;
+}
+.macbook-6 .stonk-stache-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 3px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 221px;
+}
+.macbook-6 .stonkstache-is-vestment-advice-C61RwL {
+  --z-index: 43;
+  background-color: transparent;
+  color: rgba(51,85,77,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.45px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1928px;
+  width: 1133px;
+}
+.macbook-6 .terms-conditions-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2000px;
+  width: 198px;
+}
+.macbook-6 .the-only-tool-y-market-investor-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 541px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 193px;
+  width: 334px;
+}
+.macbook-6 .uws-rectangle-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/uws-rectangle@2x.svg);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 678px;
+  opacity: 1;
+  position: absolute;
+  top: 582px;
+  width: 178px;
+}
+.macbook-6 .vector-20-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/vector-20@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 811px;
+  opacity: 1;
+  position: absolute;
+  top: 368px;
+  width: 16px;
+}
+.macbook-6 .vector-23-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/vector-23@2x.svg);
+  background-size: 100% 100%;
+  height: 21px;
+  left: 538px;
+  opacity: 1;
+  position: absolute;
+  top: 2179px;
+  width: 69px;
+}
+.macbook-6 .vector-33-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector-33@1x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 747px;
+  width: 1153px;
+}
+.macbook-6 .vector-34-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vector-33@1x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 1111px;
+  width: 1153px;
+}
+.macbook-6 .vector-35-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  background-image: url(../img/vector-35@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 215px;
+  opacity: 1;
+  position: absolute;
+  top: 1531px;
+  width: 16px;
+}
+.macbook-6 .vector-35-xwwNs9 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-35@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 215px;
+  opacity: 1;
+  position: absolute;
+  top: 422px;
+  width: 16px;
+}
+.macbook-6 .vector-36-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  background-image: url(../img/vector-36@2x.svg);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 217px;
+  opacity: 1;
+  position: absolute;
+  top: 1363px;
+  width: 16px;
+}
+.macbook-6 .vector-36-xwwNs9 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/vector-36@2x.svg);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 217px;
+  opacity: 1;
+  position: absolute;
+  top: 254px;
+  width: 16px;
+}
+.macbook-6 .watch-C61RwL {
+  --z-index: 41;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1031px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 114px;
+}
+.macbook-6 .watch-i133259133213-XFbfTH {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 31px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+  width: 82px;
+}
+.macbook-6 .welcome-to-stonk-stache-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 297px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  top: 117px;
+  width: 565px;
+}
+.macbook-6 .when-you-make-i-curve-delete-us-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 39px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1798px;
+  width: 807px;
+}
+.macbook-6 .x2021-stonkstach-rights-reserved-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 458px;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2454px;
+  white-space: nowrap;
+  width: 237px;
+}
+.macbook-6 .x2021-stonkstach-rights-reserved-VMr6Om {
+  --z-index: 22;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 458px;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2203px;
+  white-space: nowrap;
+  width: 237px;
+}
+/* screen - macbook-5 */
+
+.macbook-5 {
+  background-color: transparent;
+  height: 2231px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1152px;
+}
+.macbook-5 .a-proper-introd-n-to-the-market-AWA8pZ {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 638px;
+  letter-spacing: 1.40px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 167px;
+  width: 443px;
+}
+.macbook-5 .component-1-C61RwL {
+  --z-index: 40;
+  background-color: transparent;
+  height: 120px;
+  left: 147px;
+  opacity: 1;
+  position: absolute;
+  top: 1391px;
+  width: 114px;
+}
+.macbook-5 .desktop-and-mob-ming-april-2021-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: 49px;
+  left: 531px;
+  letter-spacing: 1.10px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 336px;
+  width: 323px;
+}
+.macbook-5 .disclaimers-C61RwL {
+  --z-index: 29;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2045px;
+  width: 109px;
+}
+.macbook-5 .discover-9p2GBv {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  width: 116px;
+}
+.macbook-5 .discover-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 914px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 124px;
+}
+.macbook-5 .email-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 448px;
+  letter-spacing: 0.70px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 489px;
+  width: 64px;
+}
+.macbook-5 .email-VMr6Om {
+  --z-index: 34;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 773px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2059px;
+  white-space: nowrap;
+  width: 198px;
+}
+.macbook-5 .frame-100-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  height: 70px;
+  left: 411px;
+  opacity: 1;
+  position: absolute;
+  top: 235px;
+  width: 334px;
+}
+.macbook-5 .frame-19544655-BtxwAb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/frame-19544655@2x.svg);
+  background-size: 100% 100%;
+  height: 455px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 225px;
+}
+.macbook-5 .frame-19544655-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  border-radius: 30px;
+  height: 455px;
+  left: 295px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 184px;
+  width: 225px;
+}
+.macbook-5 .frame-19544657-AWA8pZ {
+  --z-index: 2;
+  background-color: transparent;
+  border-radius: 30px;
+  height: 456px;
+  left: 325px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 92px;
+  width: 226px;
+}
+.macbook-5 .frame-19544657-Wd7MV9 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/frame-19544657@2x.svg);
+  background-size: 100% 100%;
+  height: 456px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.macbook-5 .frame-19544660-C61RwL {
+  --z-index: 36;
+  background-color: transparent;
+  height: 674px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1112px;
+  width: 1152px;
+}
+.macbook-5 .group-118-C61RwL {
+  --z-index: 21;
+  background-color: transparent;
+  background-image: url(../img/group-118-1@2x.svg);
+  background-size: 100% 100%;
+  height: 37px;
+  left: 197px;
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  width: 62px;
+}
+.macbook-5 .inform-me-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 616px;
+  letter-spacing: 1.10px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 589px;
+  width: 138px;
+}
+.macbook-5 .investing-in-th-ssful-investors-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.80px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 861px;
+  width: 1049px;
+}
+.macbook-5 .join-C61RwL {
+  --z-index: 35;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1020px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2059px;
+  white-space: nowrap;
+  width: 45px;
+}
+.macbook-5 .join-our-monthl-ding-the-launch-C61RwL {
+  --z-index: 27;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1999px;
+  width: 765px;
+}
+.macbook-5 .learn-9p2GBv {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 40px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 73px;
+}
+.macbook-5 .learn-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 793px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 114px;
+}
+.macbook-5 .mac-book-5-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/macbook---5@1x.png);
+  background-size: 100% 100%;
+  height: 2231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1152px;
+}
+.macbook-5 .mission-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 668px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 134px;
+}
+.macbook-5 .mission-VMr6Om {
+  --z-index: 23;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 500px;
+  letter-spacing: 1.40px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 800px;
+  width: 152px;
+}
+.macbook-5 .or-hold-on-to-t-term-investing-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.80px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1844px;
+  width: 1083px;
+}
+.macbook-5 .our-mission-is-your-detrimate-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 112px;
+  left: 531px;
+  opacity: 1;
+  position: absolute;
+  top: 453px;
+  width: 285px;
+}
+.macbook-5 .our-mission-is-your-detrimate-GgmXxa {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(187,233,222,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 112px;
+  left: 0px;
+  letter-spacing: 0.80px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 287px;
+}
+.macbook-5 .privacy-C61RwL {
+  --z-index: 30;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2089px;
+  width: 109px;
+}
+.macbook-5 .rectangle-18-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-18@1x.png);
+  background-size: 100% 100%;
+  height: 261px;
+  left: 257px;
+  opacity: 1;
+  position: absolute;
+  top: 411px;
+  width: 607px;
+}
+.macbook-5 .rectangle-20-C61RwL {
+  --z-index: 32;
+  background-color: transparent;
+  background-image: url(../img/rectangle-20@2x.svg);
+  background-size: 100% 100%;
+  height: 57px;
+  left: 748px;
+  opacity: 1;
+  position: absolute;
+  top: 2045px;
+  width: 362px;
+}
+.macbook-5 .rectangle-21-C61RwL {
+  --z-index: 33;
+  background-color: transparent;
+  background-image: url(../img/rectangle-21@2x.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 990px;
+  opacity: 1;
+  position: absolute;
+  top: 2053px;
+  width: 104px;
+}
+.macbook-5 .rectangle-22-C61RwL {
+  --z-index: 3;
+  background-color: rgba(6,18,16,1.0);
+  height: 364px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 748px;
+  width: 1152px;
+}
+.macbook-5 .rectangle-23-C61RwL {
+  --z-index: 4;
+  background-color: rgba(6,18,16,1.0);
+  height: 201px;
+  left: -3px;
+  opacity: 1;
+  position: absolute;
+  top: 1752px;
+  width: 1152px;
+}
+.macbook-5 .slogan-line-right-AWA8pZ {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: 640px;
+  width: 1153px;
+}
+.macbook-5 .slogan-line-right-C61RwL {
+  --z-index: 37;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-1@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -3px;
+  opacity: 1;
+  position: absolute;
+  top: 1952px;
+  width: 1155px;
+}
+.macbook-5 .slogan-line-right-VMr6Om {
+  --z-index: 38;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-2@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 747px;
+  width: 1153px;
+}
+.macbook-5 .slogan-line-right-mzXdH9 {
+  --z-index: 39;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-3@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -2px;
+  opacity: 1;
+  position: absolute;
+  top: 1113px;
+  width: 1169px;
+}
+.macbook-5 .span0-GZxor5 {
+  font-style: normal;
+  line-height: 16px;
+}
+.macbook-5 .span0-o3cMhL {
+  font-style: normal;
+}
+.macbook-5 .span1-GZxor5 {
+  font-size: 20px;
+  font-style: normal;
+  line-height: 20px;
+}
+.macbook-5 .span1-o3cMhL {
+  font-style: normal;
+  font-weight: 800;
+}
+.macbook-5 .stonk-stache-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 3px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 221px;
+}
+.macbook-5 .stonkstache-is-vestment-advice-C61RwL {
+  --z-index: 43;
+  background-color: transparent;
+  color: rgba(51,85,77,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.45px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1928px;
+  width: 1133px;
+}
+.macbook-5 .terms-conditions-C61RwL {
+  --z-index: 28;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2000px;
+  width: 198px;
+}
+.macbook-5 .the-only-tool-y-market-investor-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 541px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 193px;
+  width: 334px;
+}
+.macbook-5 .uws-rectangle-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/uws-rectangle-1@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: 595px;
+  opacity: 1;
+  position: absolute;
+  top: 575px;
+  width: 178px;
+}
+.macbook-5 .vector-20-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/vector-20@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 811px;
+  opacity: 1;
+  position: absolute;
+  top: 368px;
+  width: 16px;
+}
+.macbook-5 .vector-23-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  background-image: url(../img/vector-23@2x.svg);
+  background-size: 100% 100%;
+  height: 21px;
+  left: 538px;
+  opacity: 1;
+  position: absolute;
+  top: 2180px;
+  width: 69px;
+}
+.macbook-5 .vector-33-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector-33@1x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 747px;
+  width: 1153px;
+}
+.macbook-5 .vector-34-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vector-33@1x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 1111px;
+  width: 1153px;
+}
+.macbook-5 .vector-35-C61RwL {
+  --z-index: 41;
+  background-color: transparent;
+  background-image: url(../img/vector-35@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 215px;
+  opacity: 1;
+  position: absolute;
+  top: 1531px;
+  width: 16px;
+}
+.macbook-5 .vector-36-C61RwL {
+  --z-index: 42;
+  background-color: transparent;
+  background-image: url(../img/vector-36@2x.svg);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 217px;
+  opacity: 1;
+  position: absolute;
+  top: 1363px;
+  width: 16px;
+}
+.macbook-5 .watch-9p2GBv {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 31px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+  width: 82px;
+}
+.macbook-5 .watch-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1031px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 114px;
+}
+.macbook-5 .we-are-here-to-essful-investor-AWA8pZ {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 638px;
+  letter-spacing: 0.80px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  top: 275px;
+  width: 402px;
+}
+.macbook-5 .welcome-to-stonk-stache-C61RwL {
+  --z-index: 20;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 277px;
+  letter-spacing: 2.10px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  top: 118px;
+  width: 603px;
+}
+.macbook-5 .when-you-make-i-curve-delete-us-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 39px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1798px;
+  width: 807px;
+}
+.macbook-5 .x2021-stonkstach-rights-reserved-C61RwL {
+  --z-index: 31;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 458px;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2201px;
+  white-space: nowrap;
+  width: 237px;
+}
+/* screen - macbook-7 */
+
+.macbook-7 {
+  background-color: transparent;
+  height: 2231px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1152px;
+}
+.macbook-7 .component-1-vpEfL3 {
+  --z-index: 2;
+  background-color: transparent;
+  height: 120px;
+  left: 147px;
+  opacity: 1;
+  position: absolute;
+  top: 282px;
+  width: 114px;
+}
+.macbook-7 .desktop-and-mob-ming-april-2021-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: 49px;
+  left: 531px;
+  letter-spacing: 1.10px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 336px;
+  width: 323px;
+}
+.macbook-7 .disclaimers-C61RwL {
+  --z-index: 25;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2045px;
+  width: 109px;
+}
+.macbook-7 .discover-C61RwL {
+  --z-index: 40;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 914px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 124px;
+}
+.macbook-7 .discover-i133320133214-mGBfZL {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 0px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 47px;
+  width: 116px;
+}
+.macbook-7 .email-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 30px;
+  left: 448px;
+  letter-spacing: 0.70px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 489px;
+  width: 64px;
+}
+.macbook-7 .email-VMr6Om {
+  --z-index: 29;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 772px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2075px;
+  white-space: nowrap;
+  width: 198px;
+}
+.macbook-7 .frame-100-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 70px;
+  left: 411px;
+  opacity: 1;
+  position: absolute;
+  top: 235px;
+  width: 334px;
+}
+.macbook-7 .frame-19544655-BtxwAb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/frame-19544655@2x.svg);
+  background-size: 100% 100%;
+  height: 455px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 225px;
+}
+.macbook-7 .frame-19544655-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  border-radius: 30px;
+  height: 455px;
+  left: 295px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 184px;
+  width: 225px;
+}
+.macbook-7 .frame-19544657-O9x4Tz {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/frame-19544657-1@2x.svg);
+  background-size: 100% 100%;
+  height: 456px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.macbook-7 .frame-19544657-vpEfL3 {
+  --z-index: 3;
+  background-color: transparent;
+  border-radius: 30px;
+  height: 456px;
+  left: 326px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 127px;
+  width: 226px;
+}
+.macbook-7 .frame-19544661-C61RwL {
+  --z-index: 19;
+  background-color: transparent;
+  height: 709px;
+  left: 0px;
+  opacity: 1;
+  overflow: hidden;
+  position: absolute;
+  top: 1109px;
+  width: 1152px;
+}
+.macbook-7 .group-118-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/group-118@2x.svg);
+  background-size: 100% 100%;
+  height: 37px;
+  left: 197px;
+  opacity: 1;
+  position: absolute;
+  top: 14px;
+  width: 62px;
+}
+.macbook-7 .inform-me-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  left: 616px;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 596px;
+  width: 138px;
+}
+.macbook-7 .investing-in-th-ssful-investors-C61RwL {
+  --z-index: 36;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 58px;
+  letter-spacing: 0.80px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 861px;
+  width: 1049px;
+}
+.macbook-7 .join-C61RwL {
+  --z-index: 30;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1019px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2075px;
+  white-space: nowrap;
+  width: 45px;
+}
+.macbook-7 .join-our-monthl-ding-the-launch-C61RwL {
+  --z-index: 23;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 360px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1999px;
+  width: 765px;
+}
+.macbook-7 .keep-an-eye-on-your-favorites-vpEfL3 {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 618px;
+  letter-spacing: 1.60px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 205px;
+  width: 443px;
+}
+.macbook-7 .learn-C61RwL {
+  --z-index: 38;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 793px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 114px;
+}
+.macbook-7 .learn-i133320133212-mGBfZL {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 40px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 73px;
+}
+.macbook-7 .mac-book-7-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/macbook---6@1x.svg);
+  background-size: 100% 100%;
+  height: 2231px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1152px;
+}
+.macbook-7 .mission-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 514px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 801px;
+  width: 126px;
+}
+.macbook-7 .mission-VMr6Om {
+  --z-index: 37;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 668px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 134px;
+}
+.macbook-7 .or-hold-on-to-t-term-investing-C61RwL {
+  --z-index: 35;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.80px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1844px;
+  width: 1083px;
+}
+.macbook-7 .our-mission-is-your-detrimate-C61RwL {
+  --z-index: 42;
+  background-color: transparent;
+  color: rgba(187,233,222,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: 112px;
+  left: 540px;
+  letter-spacing: 0.80px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 443px;
+  width: 287px;
+}
+.macbook-7 .privacy-C61RwL {
+  --z-index: 26;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2089px;
+  width: 109px;
+}
+.macbook-7 .rectangle-18-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-18@1x.svg);
+  background-size: 100% 100%;
+  height: 253px;
+  left: 261px;
+  opacity: 1;
+  position: absolute;
+  top: 411px;
+  width: 599px;
+}
+.macbook-7 .rectangle-20-C61RwL {
+  --z-index: 27;
+  background-color: transparent;
+  background-image: url(../img/rectangle-20@2x.svg);
+  background-size: 100% 100%;
+  height: 57px;
+  left: 747px;
+  opacity: 1;
+  position: absolute;
+  top: 2061px;
+  width: 362px;
+}
+.macbook-7 .rectangle-21-C61RwL {
+  --z-index: 28;
+  background-color: transparent;
+  background-image: url(../img/rectangle-21@2x.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  left: 989px;
+  opacity: 1;
+  position: absolute;
+  top: 2069px;
+  width: 104px;
+}
+.macbook-7 .rectangle-22-C61RwL {
+  --z-index: 15;
+  background-color: rgba(6,18,16,1.0);
+  height: 364px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 748px;
+  width: 1152px;
+}
+.macbook-7 .rectangle-23-C61RwL {
+  --z-index: 21;
+  background-color: rgba(6,18,16,1.0);
+  height: 201px;
+  left: -3px;
+  opacity: 1;
+  position: absolute;
+  top: 1752px;
+  width: 1152px;
+}
+.macbook-7 .save-your-favor-iew-at-a-glance-vpEfL3 {
+  --z-index: 0;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 617px;
+  letter-spacing: 1.00px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 314px;
+  width: 402px;
+}
+.macbook-7 .slogan-line-right-C61RwL {
+  --z-index: 31;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: 1752px;
+  width: 1153px;
+}
+.macbook-7 .slogan-line-right-QxM5SU {
+  --z-index: 34;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-3@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -2px;
+  opacity: 1;
+  position: absolute;
+  top: 1113px;
+  width: 1169px;
+}
+.macbook-7 .slogan-line-right-VMr6Om {
+  --z-index: 32;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-1@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -3px;
+  opacity: 1;
+  position: absolute;
+  top: 1952px;
+  width: 1155px;
+}
+.macbook-7 .slogan-line-right-mzXdH9 {
+  --z-index: 33;
+  background-color: transparent;
+  background-image: url(../img/slogan-line-right-2@1x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 747px;
+  width: 1153px;
+}
+.macbook-7 .span0-o3cMhL {
+  font-style: normal;
+}
+.macbook-7 .span1-o3cMhL {
+  font-style: normal;
+  font-weight: 800;
+}
+.macbook-7 .stonk-stache-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 3px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 221px;
+}
+.macbook-7 .stonkstache-is-vestment-advice-C61RwL {
+  --z-index: 41;
+  background-color: transparent;
+  color: rgba(51,85,77,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.45px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1928px;
+  width: 1133px;
+}
+.macbook-7 .terms-conditions-C61RwL {
+  --z-index: 24;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 39px;
+  letter-spacing: 0.90px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2000px;
+  width: 198px;
+}
+.macbook-7 .the-only-tool-y-market-investor-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 541px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 193px;
+  width: 334px;
+}
+.macbook-7 .uws-rectangle-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/uws-rectangle@2x.svg);
+  background-size: 100% 100%;
+  height: 50px;
+  left: 595px;
+  opacity: 1;
+  position: absolute;
+  top: 584px;
+  width: 178px;
+}
+.macbook-7 .vector-20-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/vector-20@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 811px;
+  opacity: 1;
+  position: absolute;
+  top: 368px;
+  width: 16px;
+}
+.macbook-7 .vector-23-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/vector-23@2x.svg);
+  background-size: 100% 100%;
+  height: 21px;
+  left: 538px;
+  opacity: 1;
+  position: absolute;
+  top: 2179px;
+  width: 69px;
+}
+.macbook-7 .vector-33-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector-33@1x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 747px;
+  width: 1153px;
+}
+.macbook-7 .vector-34-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vector-33@1x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -1px;
+  opacity: 1;
+  position: absolute;
+  top: 1111px;
+  width: 1153px;
+}
+.macbook-7 .vector-35-vpEfL3 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/vector-35@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 215px;
+  opacity: 1;
+  position: absolute;
+  top: 422px;
+  width: 16px;
+}
+.macbook-7 .vector-36-vpEfL3 {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/vector-36@2x.svg);
+  background-size: 100% 100%;
+  height: 17px;
+  left: 217px;
+  opacity: 1;
+  position: absolute;
+  top: 254px;
+  width: 16px;
+}
+.macbook-7 .watch-C61RwL {
+  --z-index: 39;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1031px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 114px;
+}
+.macbook-7 .watch-i133320133213-mGBfZL {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 31px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+  width: 82px;
+}
+.macbook-7 .welcome-to-stonk-stache-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 297px;
+  letter-spacing: 2.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  top: 117px;
+  width: 565px;
+}
+.macbook-7 .when-you-make-i-curve-delete-us-C61RwL {
+  --z-index: 22;
+  background-color: transparent;
+  color: rgba(148,207,193,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 39px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 1798px;
+  width: 807px;
+}
+.macbook-7 .x2021-stonkstach-rights-reserved-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 458px;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2454px;
+  white-space: nowrap;
+  width: 237px;
+}
+.macbook-7 .x2021-stonkstach-rights-reserved-VMr6Om {
+  --z-index: 20;
+  background-color: transparent;
+  color: rgba(5,73,57,1.0);
+  font-family: 'Coda', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 458px;
+  letter-spacing: 0.60px;
+  line-height: 30px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2203px;
+  white-space: nowrap;
+  width: 237px;
+}
